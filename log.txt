@@ -1,3 +1,4 @@
+0f5a4b4 Task 2.2 complete
 271c4fa Task 2.1 complete
 eb17932 Task 1.2 is complete
 2a2b60e Task 1.1 is complete
